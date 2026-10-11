@@ -32,11 +32,11 @@ A única conexão de rede de todo o sistema é a **validação da assinatura pel
 
 O FortiPass **nasceu de uma dor minha**, não de um plano de negócio.
 
-Eu usava gerenciadores de senha na nuvem, mas nunca me senti realmente confortável: o meu cofre — a coisa mais sensível que eu tenho — vivia em servidores de outra pessoa. Cada grande vazamento reforçava a mesma pergunta incômoda: *por que as minhas senhas precisam sair do meu aparelho?*
+Eu usava gerenciadores de senha na nuvem, mas nunca me senti realmente confortável — nem com a **usabilidade**, nem com os **preços**. Ou o app era confuso e cheio de etapas para o que deveria ser simples, ou os recursos que eu mais usava ficavam presos atrás de planos caros, cobrados por assinatura mês após mês.
 
-Então construí, primeiro **para mim mesmo**, um cofre que simplesmente **não sai do dispositivo**: sem nuvem, sem conta em servidor, sem telemetria. Se era para confiar a ele os meus segredos, que eu pudesse **verificar** — não apenas acreditar na promessa de uma empresa.
+Então decidi construir, primeiro **para mim mesmo**, o gerenciador que eu queria usar: simples de verdade, com um plano **gratuito que realmente serve** e um **Pro de preço justo**. E, fazendo para mim, a decisão natural foi **não depender de nuvem nenhuma** — o cofre fica no meu aparelho, sem conta em servidor e sem telemetria. Se era para confiar a ele os meus segredos, que eu pudesse **verificar** — não apenas acreditar na promessa de uma empresa.
 
-Com o tempo ficou claro que aquela dor não era só minha. É a mesma de quem não **quer** — ou não **pode** — colocar segredos na nuvem: profissionais de segurança, bancos, governo e setores regulados por **LGPD/GDPR**. Foi aí que um problema pessoal virou produto.
+Com o tempo ficou claro que aquela dor não era só minha: muita gente não **quer** (ou não **pode**) colocar segredos na nuvem, e ninguém gosta de pagar caro por algo que poderia ser simples. Foi aí que um problema pessoal virou produto.
 
 ## ❓ Por que isso importa
 
