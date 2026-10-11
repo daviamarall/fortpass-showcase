@@ -28,6 +28,16 @@ O **FortiPass** é um gerenciador de senhas **offline-first** para **Android** e
 
 A única conexão de rede de todo o sistema é a **validação da assinatura pela Google Play** (para o plano Pro). Os dados do usuário permanecem, sempre, no próprio aparelho.
 
+## 🧭 Como nasceu
+
+O FortiPass **nasceu de uma dor minha**, não de um plano de negócio.
+
+Eu usava gerenciadores de senha na nuvem, mas nunca me senti realmente confortável: o meu cofre — a coisa mais sensível que eu tenho — vivia em servidores de outra pessoa. Cada grande vazamento reforçava a mesma pergunta incômoda: *por que as minhas senhas precisam sair do meu aparelho?*
+
+Então construí, primeiro **para mim mesmo**, um cofre que simplesmente **não sai do dispositivo**: sem nuvem, sem conta em servidor, sem telemetria. Se era para confiar a ele os meus segredos, que eu pudesse **verificar** — não apenas acreditar na promessa de uma empresa.
+
+Com o tempo ficou claro que aquela dor não era só minha. É a mesma de quem não **quer** — ou não **pode** — colocar segredos na nuvem: profissionais de segurança, bancos, governo e setores regulados por **LGPD/GDPR**. Foi aí que um problema pessoal virou produto.
+
 ## ❓ Por que isso importa
 
 Gerenciadores tradicionais dependem de nuvem. Isso os torna **alvos naturais** (o vazamento da LastPass expôs cofres cifrados de milhões) e **inviáveis** em ambientes que proíbem dados na nuvem — bancos, governo e setores regulados.
