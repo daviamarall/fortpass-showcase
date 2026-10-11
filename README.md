@@ -24,7 +24,7 @@ O cofre nunca sai do dispositivo. Sem nuvem, sem conta em servidor, sem telemetr
 
 ## 💡 O que é
 
-O **FortiPass** é um gerenciador de senhas **offline-first** para **Android** e **Chrome**. Ele parte de um princípio simples e radical: **o cofre nunca é transmitido** — não existe servidor de cofre, não existe conta com dados na nuvem e não há telemetria.
+O **FortiPass** é um gerenciador de senhas **offline-first** para **Android** e **Chrome**. Ele parte de um princípio simples e radical: **o cofre nunca é transmitido**, não existe servidor de cofre, não existe conta com dados na nuvem e não há telemetria.
 
 A única conexão de rede de todo o sistema é a **validação da assinatura pela Google Play** (para o plano Pro). Os dados do usuário permanecem, sempre, no próprio aparelho.
 
@@ -32,15 +32,15 @@ A única conexão de rede de todo o sistema é a **validação da assinatura pel
 
 O FortiPass **nasceu de uma dor minha**, não de um plano de negócio.
 
-Eu usava gerenciadores de senha na nuvem, mas nunca me senti realmente confortável — nem com a **usabilidade**, nem com os **preços**. Ou o app era confuso e cheio de etapas para o que deveria ser simples, ou os recursos que eu mais usava ficavam presos atrás de planos caros, cobrados por assinatura mês após mês.
+Eu usava gerenciadores de senha na nuvem, mas nunca me senti realmente confortável, nem com a **usabilidade**, nem com os **preços**. Ou o app era confuso e cheio de etapas para o que deveria ser simples, ou os recursos que eu mais usava ficavam presos atrás de planos caros, cobrados por assinatura mês após mês.
 
-Então decidi construir, primeiro **para mim mesmo**, o gerenciador que eu queria usar: simples de verdade, com um plano **gratuito que realmente serve** e um **Pro de preço justo**. E, fazendo para mim, a decisão natural foi **não depender de nuvem nenhuma** — o cofre fica no meu aparelho, sem conta em servidor e sem telemetria. Queria algo que fizesse **exatamente o que eu preciso, do meu jeito, sem firulas**.
+Então decidi construir, primeiro **para mim mesmo**, o gerenciador que eu queria usar: simples de verdade, com um plano **gratuito que realmente serve** e um **Pro de preço justo**. E, fazendo para mim, a decisão natural foi não depender de cloud, o cofre fica no meu aparelho, sem conta em servidor e sem telemetria. Queria algo que fizesse **exatamente o que eu preciso, do meu jeito, sem firulas**.
 
 Com o tempo ficou claro que aquela dor não era só minha: muita gente não **quer** (ou não **pode**) colocar segredos na nuvem, e ninguém gosta de pagar caro por algo que poderia ser simples. Foi aí que um problema pessoal virou produto.
 
 ## ❓ Por que isso importa
 
-Gerenciadores tradicionais dependem de nuvem. Isso os torna **alvos naturais** (o vazamento da LastPass expôs cofres cifrados de milhões) e **inviáveis** em ambientes que proíbem dados na nuvem — bancos, governo e setores regulados.
+Gerenciadores tradicionais dependem de nuvem. Isso os torna alvos naturais (o vazamento da LastPass expôs cofres cifrados de milhões) e **inviáveis** em ambientes que proíbem dados na nuvem, bancos, governo e setores regulados.
 
 Privacidade deixou de ser recurso e virou **requisito legal** (LGPD/GDPR). Um cofre que **comprova** que os dados não saem do aparelho atende essas exigências **por arquitetura**, não por promessa.
 
