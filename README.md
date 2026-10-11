@@ -51,9 +51,10 @@ Privacidade deixou de ser recurso e virou **requisito legal** (LGPD/GDPR). Um co
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="images/screenshot-login.png" width="240" alt="Tela de acesso">
-  <img src="images/screenshot-notes.png" width="240" alt="Notas seguras">
-  <img src="images/screenshot-settings.png" width="240" alt="Ajustes e segurança">
+  <img src="images/screenshot-vault.png" width="230" alt="Cofre (senhas)">
+  <img src="images/screenshot-notes.png" width="230" alt="Notas seguras">
+  <img src="images/screenshot-settings.png" width="230" alt="Ajustes e segurança">
+  <img src="images/screenshot-login.png" width="230" alt="Tela de acesso">
 </p>
 
 ## 🏗️ Arquitetura (alto nível)
